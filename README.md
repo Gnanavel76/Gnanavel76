@@ -1,5 +1,5 @@
 ##    Hi 👋, I'm Gnanavel
-#### A computer graduate and self-taught programmer👨‍🎓
+#### A computer science graduate and self-taught programmer👨‍🎓
 
 - I'm a Freelancer
 - I’m interested in Web development
