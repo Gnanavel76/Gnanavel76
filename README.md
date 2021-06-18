@@ -1,7 +1,5 @@
-<p align="center">
 ##    Hi 👋, I'm Gnanavel
 #### A computer graduate and self-taught programmer👨‍🎓
-</p>
 
 - I'm a Freelancer
 - I’m interested in Web development
